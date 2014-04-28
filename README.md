@@ -1,10 +1,10 @@
-# isServer
+# is-server
 
 Check if process is running in Node.
 
 ## API
 ````
-var detect = require('isServer');
+var detect = require('is-server');
 
 detect();
 // -> true in node
