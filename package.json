@@ -1,5 +1,5 @@
 {
-  "name": "isServer",
+  "name": "is-server",
   "version": "0.0.1",
   "description": "Check if process is running in Nodejs",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yoshuawuyts/isServer.git"
+    "url": "https://github.com/yoshuawuyts/is-server.git"
   },
   "keywords": [
     "Node",
@@ -18,7 +18,7 @@
   "author": "Yoshua Wuyts <i@yoshuawuyts.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yoshuawuyts/isServer/issues"
+    "url": "https://github.com/yoshuawuyts/is-server/issues"
   },
-  "homepage": "https://github.com/yoshuawuyts/isServer"
+  "homepage": "https://github.com/yoshuawuyts/is-server"
 }
